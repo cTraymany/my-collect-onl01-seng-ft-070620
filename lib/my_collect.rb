@@ -7,5 +7,3 @@ def my_collect(collection)
   end
   new_collection
 end
-
-my_collect([1, 2, 3]) {|i| i}
